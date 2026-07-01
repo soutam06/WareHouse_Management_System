@@ -17,7 +17,7 @@ const Sidebar = () => {
 
     const getTreedata = async()=>{
         try{
-          const response = await axios.get("http://localhost:4000/godown");
+          const response = await axios.get("https://ware-house-management-system-inky.vercel.app/godown");
           
           if(response.status===200){
             settreeData(response.data);

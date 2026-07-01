@@ -18,7 +18,7 @@ Built on a robust **MERN stack** (MongoDB, Express, React, Node.js) and bundled 
 
 Watch a video demonstration of the application in action:
 
-[![Watch the demo](https://img.youtube.com/vi/1jAuaMIRVXyUF_mXkTngPYopMUBOV3vkg/maxresdefault.jpg)](https://drive.google.com/file/d/1jAuaMIRVXyUF_mXkTngPYopMUBOV3vkg/view?usp=sharing)
+[![Watch the demo](https://img.youtube.com/vi/1jAuaMIRVXyUF_mXkTngPYopMUBOV3vkg/maxresdefault.jpg)](YOUR_GOOGLE_DRIVE_LINK)
 
 ---
 

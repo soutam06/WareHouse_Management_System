@@ -12,7 +12,7 @@ const Godown = () => {
 
     const getitems = async()=>{
         try{
-            const response = await axios.get(`http://localhost:4000/item`,{
+            const response = await axios.get(`https://ware-house-management-system-inky.vercel.app/item`,{
                 params:{
                     godown:godownId
                 }
