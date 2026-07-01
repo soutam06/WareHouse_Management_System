@@ -4,6 +4,9 @@ An enterprise-grade application designed to visualize and manage complex warehou
 
 Built on a robust **MERN stack** (MongoDB, Express, React, Node.js) and bundled with Vite for lightning-fast frontend performance.
 
+### 🌐 Live Deployment
+**Production URL:** [https://ware-house-management-system-ypib.vercel.app/](https://ware-house-management-system-ypib.vercel.app/)
+
 ---
 
 ## 📑 Table of Contents
@@ -18,7 +21,7 @@ Built on a robust **MERN stack** (MongoDB, Express, React, Node.js) and bundled 
 
 Watch a video demonstration of the application in action:
 
-[![Watch the demo](https://img.youtube.com/vi/1jAuaMIRVXyUF_mXkTngPYopMUBOV3vkg/maxresdefault.jpg)](YOUR_GOOGLE_DRIVE_LINK)
+[![Watch the demo](https://img.shields.io/badge/Watch-Video_Demonstration-red?style=for-the-badge&logo=youtube)](https://drive.google.com/file/d/1LXTZDncxTbSB1AVKSOSb5pvD9v61j3Wm/view?usp=sharing)
 
 ---
 
